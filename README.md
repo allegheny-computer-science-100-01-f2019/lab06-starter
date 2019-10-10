@@ -1,4 +1,4 @@
-# cs100f2018-lab6-starter
+# cs100f2019-lab6-starter
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this
 repository contains the starter materials for Laboratory 6 in Computer Science 100.
@@ -17,19 +17,19 @@ analysis of a book. First, the program will display the name of the
 programmer and the date at which the program was run. Then, it will display the
 information about the book, such as its title, author, the number of words it has.
 Finally, the program will allow the user to search for specific keywords in the book.
-As verified by[Checkstyle](https://github.com/checkstyle/checkstyle), the source code for the
+As verified by [Checkstyle](https://github.com/checkstyle/checkstyle), the source code for the
 `AnalyzeText.java` file must adhere to all of the requirements in the [Google
 Java Style Guide](https://google.github.io/styleguide/javaguide.html).
 
 The developer is also responsible for writing a reflection document, written in
 a Markdown language that adheres to the standards described
-in the [Markdown Syntax Guide](https://guides.github.com/features/mastering-markdown/) 
+in the [Markdown Syntax Guide](https://guides.github.com/features/mastering-markdown/)
 and answers the questions outlined in the template reflection document. Remember, you
 can preview the contents of a committed Markdown file by clicking on the name of
 the file in your GitHub repository.
 
 The source code in the `AnalyzeText.java` file must also pass additional tests
-set by the [GatorGrader tool](https://github.com/GatorEducator/gatorgrader). 
+set by the [GatorGrader tool](https://github.com/GatorEducator/gatorgrader).
 GatorGrader will check the following characteristics of your implementation:
 
 * The `AnalyzeText` program must:
@@ -69,10 +69,9 @@ Projects on GitHub](https://guides.github.com/features/wikis/). Each of these
 guides will help you to understand how to use both [GitHub](http://github.com) and
 [GitHub Classroom](https://classroom.github.com/).
 
-To do well on this assignment, you should also review Chapters 1 and 2 and study
-Sections 3.1 through 3.5. Please see the course instructor or one of the
-teaching assistants or tutors if you have questions about any of these reading
-assignments.
+To do well on this assignment, you should also review Chapter 3 and 4 and study
+Sections 5.1 through 5.4. Please see the course instructor or one of the
+technical leaders if you have questions about any of these reading assignments.
 
 ## System Commands
 
