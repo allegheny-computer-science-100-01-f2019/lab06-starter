@@ -27,7 +27,7 @@ public class AnalyzeText {
     }
     // TODO: Display information about the book (title, author, etc.)
     // 1.1. Open the input file and check where this information is located
-    // 1.2. Modify the value assigned to the preamble_lines variable on  line 12
+    // 1.2. Modify the value assigned to the preambleLines variable on  line 12
     // 1.3. Use a while loop to start at index=0 and end at preambleLines value
     // 1.4. Inside the body of the loop, use Scanner's nextLine() method to print
     // information about the book (author, title, etc.)

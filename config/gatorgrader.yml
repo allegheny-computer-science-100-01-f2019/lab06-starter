@@ -49,7 +49,7 @@ writing/reflection.md:
     MatchFileFragment --fragment "Add Your Name Here" --count 0 --exact
 
 # --> check that the number of commits in the Git repository is beyond a threshold
-CountCommits --count 4
+CountCommits --count 6
 
 ExecuteCommand --command "gradle build"
 #ExecuteCommand --command "gradle -q --console plain run"
